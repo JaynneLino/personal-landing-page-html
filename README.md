@@ -4,9 +4,6 @@ This is my first personal landing page, developed during the early stages of my 
 
 The project served as a practical laboratory to master the fundamentals of web structure, styling, and responsive design.
 
-### 🔗 Live Demo
-You can view the project here: [Insert your GitHub Pages link here]
-*(To enable this, go to Settings > Pages > Branch: Main > Save)*
 
 ---
 
